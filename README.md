@@ -1,4 +1,4 @@
-# DeepLearning--with-python
+# DeepLearning con Python
 Curso de DeepLearning con Python 
 Este curso es creado y mantenido por el Semillero de Neuroinformática e Inteligencia Artificial de la Universidad Tecnológica de Pereira. El curso consta de lecciones cortas en vídeo y su cuaderno interactivo respectivo que puede ser desplegado en Google Colab para correr los procesos. No se requieren conocimientos avanzados de programación para este curso.
 
