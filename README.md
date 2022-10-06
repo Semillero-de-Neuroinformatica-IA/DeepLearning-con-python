@@ -8,3 +8,4 @@ El curso se desarrolla en colab en el siguiente [link](https://youtu.be/gy7Hu8eh
 1.    Hola mundo con redes de neuronales [[Vídeo]](https://youtu.be/CxG7yCMws2k) [[Cuaderno interactivo]](https://github.com/Semillero-de-Neuroinformatica-IA/DeepLearning--with-python/blob/main/Hello_World_NN.ipynb)
 2.   Regresión con redes neuronales: Base de datos Boston Housing [[Vídeo](https://youtu.be/T4KGEZsDve0)] [[Cuaderno interactivo](https://github.com/Semillero-de-Neuroinformatica-IA/DeepLearning--with-python/blob/main/Boston_Housing.ipynb)]
 3. Aplicación de las redes neuronales en visión por computador: Base de datos Mnist [[Notebook]](https://github.com/Semillero-de-Neuroinformatica-IA/DeepLearning--with-python/blob/main/mnist_fashion.ipynb)
+4. Redes neuronales convolucionales: Base de datos: Humans vs Horses [[Cuaderno interactivo]]()
